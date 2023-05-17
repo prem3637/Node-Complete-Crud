@@ -1,0 +1,28 @@
+{
+    "database":{
+        "mysql":{
+            "host":"",
+            "user":"",
+            "database":"",
+            "password":"",
+            "port":""
+
+        },
+        "oracle":{
+            "host":"",
+            "user":"",
+            "database":"",
+            "password":"",
+            "port":""
+
+        },
+        "mongodb":{
+            "local":"",
+            "atlas":"mongodb+srv://piyushjaiswal009911:vQTeagTaYJv4Cyum@cluster0.g5peboh.mongodb.net/ecommerce",
+            "cluster":""
+
+
+        }
+        
+    }
+}
